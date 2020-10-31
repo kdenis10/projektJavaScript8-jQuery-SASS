@@ -1,1 +1,1 @@
-# projektJavaScript8-jQuery-SASS
+# projektJavaScript8-jQuery-SASS - Wprowadzenie do Sass
